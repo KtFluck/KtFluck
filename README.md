@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KtFluck
+- 👋 Hi, I’m Katie
 - 👀 I’m interested in code
 - 🌱 I’m a recent Computer Science graduate
 - 💞️ I’m looking to collaborate on projects to increase my knowledge
