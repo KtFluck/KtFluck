@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Katie
-- 👀 I’m interested in code
+- 👀 I’m interested in software development
 - 🌱 BS in Computer Science
 - 💞️ I’m looking to collaborate on projects to increase my knowledge
 
